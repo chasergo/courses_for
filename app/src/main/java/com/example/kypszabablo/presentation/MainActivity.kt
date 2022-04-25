@@ -1,7 +1,8 @@
-package com.example.kypszabablo
+package com.example.kypszabablo.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.kypszabablo.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
